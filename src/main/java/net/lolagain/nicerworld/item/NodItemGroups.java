@@ -17,6 +17,8 @@ public class NodItemGroups {
                     .icon(() -> new ItemStack(NodItems.CHRYSOPRASE)).entries(((displayContext, entries) -> {
                         entries.add(NodBlocks.CHRYSOPRASE_ORE);
                         entries.add(NodBlocks.RHULITE_ORE);
+                        entries.add(NodBlocks.DEEPSLATE_CHRYSOPRASE_ORE);
+                        entries.add(NodBlocks.DEEPSLATE_RHULITE_ORE);
                         entries.add(NodBlocks.CHRYSOPRASE_BLOCK);
                         entries.add(NodBlocks.RHULITE_BLOCK);
                         entries.add(NodBlocks.ELECTRUM_BLOCK);
