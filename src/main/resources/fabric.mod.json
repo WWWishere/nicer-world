@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nicerworld",
+	"version": "${version}",
+	"name": "Nicer World",
+	"description": "An attempt at adding content to the overworld in the style of Better Nether and Better End. Please pray for me.",
+	"authors": [
+		"lolagain"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/nicerworld/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lolagain.nicerworld.NicerWorld"
+		],
+		"client": [
+			"net.lolagain.nicerworld.NicerWorldClient"
+		],
+		"fabric-datagen": [
+			"net.lolagain.nicerworld.NicerWorldDataGenerator"
+		]
+	},
+	"mixins": [
+		"nicerworld.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
