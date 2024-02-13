@@ -1,0 +1,15 @@
+{
+  "item.nicerworld.chrysoprase": "Chrysoprase",
+  "item.nicerworld.rhulite": "Rhulite Orb",
+  "item.nicerworld.electrum_ingot": "Electrum Ingot",
+  "item.nicerworld.myststone_bar": "Myststone Bar",
+
+  "block.nicerworld.chrysoprase_ore": "Chrysoprase Ore",
+  "block.nicerworld.rhulite_ore": "Rhulite Ore",
+  "block.nicerworld.chrysoprase_block": "Block of Chrysoprase",
+  "block.nicerworld.rhulite_block": "Block of Rhulite",
+  "block.nicerworld.electrum_block": "Block of Electrum",
+  "block.nicerworld.myststone_block": "Block of Myststone",
+
+  "itemgroup.base_blocks": "Nicer World - Base Blocks"
+}
