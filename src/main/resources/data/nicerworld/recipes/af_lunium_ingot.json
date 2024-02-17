@@ -1,0 +1,19 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "nicerworld:myststone_bar",
+      "count": 2
+    },
+    {
+      "tag": "c:platinum_ingots",
+      "count": 3
+    }
+  ],
+  "output": {
+    "id": "nicerworld:lunium_ingot",
+    "count": 3
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 30
+}

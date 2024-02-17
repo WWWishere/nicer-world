@@ -3,6 +3,9 @@
   "item.nicerworld.rhulite": "Rhulite Orb",
   "item.nicerworld.electrum_ingot": "Electrum Ingot",
   "item.nicerworld.myststone_bar": "Myststone Bar",
+  "item.nicerworld.steel_ingot": "Steel Ingot",
+  "item.nicerworld.lunium_ingot": "Lunium Ingot",
+  "item.nicerworld.naturium_ingot": "Naturium Ingot",
 
   "block.nicerworld.chrysoprase_ore": "Chrysoprase Ore",
   "block.nicerworld.rhulite_ore": "Rhulite Ore",
@@ -13,5 +16,7 @@
   "block.nicerworld.electrum_block": "Block of Electrum",
   "block.nicerworld.myststone_block": "Block of Myststone",
 
-  "itemgroup.base_blocks": "Nicer World - Base Blocks"
+  "itemgroup.base_blocks": "Nicer World - Base Blocks",
+  "itemgroup.items": "Nicer World - Items",
+  "itemgroup.var_blocks": "Nicer World - Variational Blocks"
 }

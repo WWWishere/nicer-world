@@ -1,0 +1,19 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:iron_ingots",
+      "count": 1
+    },
+    {
+      "tag": "c:coal",
+      "count": 2
+    }
+  ],
+  "output": {
+    "id": "nicerworld:steel_ingot",
+    "count": 1
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 10
+}

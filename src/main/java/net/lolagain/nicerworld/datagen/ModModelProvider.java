@@ -25,5 +25,10 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(NodItems.CHRYSOPRASE, Models.GENERATED);
         itemModelGenerator.register(NodItems.RHULITE, Models.GENERATED);
+        itemModelGenerator.register(NodItems.ELECTRUM_INGOT, Models.GENERATED);
+        itemModelGenerator.register(NodItems.LUNIUM_INGOT, Models.GENERATED);
+        itemModelGenerator.register(NodItems.NATURIUM_INGOT, Models.GENERATED);
+        itemModelGenerator.register(NodItems.STEEL_INGOT, Models.GENERATED);
+        itemModelGenerator.register(NodItems.MYSTSTONE_BAR, Models.GENERATED);
     }
 }

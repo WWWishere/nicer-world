@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "nicerworld:electrum_ingot",
+    "nicerworld:lunium_ingot",
+    "nicerworld:naturium_ingot",
+    "nicerworld:steel_ingot",
+    "nicerworld:myststone_bar"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "nicerworld:lunium_bar",
+      "count": 4
+    },
+    {
+      "tag": "c:mythril_ingots",
+      "count": 1
+    },
+    {
+      "tag": "c:netherite_ingots",
+      "count": 2
+    },
+    {
+      "tag": "minecraft:leaves",
+      "count": 64
+    }
+  ],
+  "output": {
+    "id": "nicerworld:naturium_ingot",
+    "count": 1
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 400
+}
